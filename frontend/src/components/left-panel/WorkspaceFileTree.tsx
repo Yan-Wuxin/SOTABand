@@ -304,7 +304,7 @@ function FileTreeItem({
   return (
     <div className="group/tree-item">
       <div
-        draggable={!isDir}
+        draggable
         onDragStart={(e) => onDragStart(e, node)}
         onClick={() => {
           if (isDir) onToggle(node.id)

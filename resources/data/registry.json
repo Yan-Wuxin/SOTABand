@@ -1086,24 +1086,18 @@
     "type": "generic",
     "status": "active",
     "spec_path": "definitions/field.md",
-    "data_path": "/Users/leo/Documents/1重要备份/project/2026SOTABand/SOTABand/data/downloads/1788935772632",
-    "file_count": 1,
-    "total_size": 806875,
+    "data_path": "/Users/leo/Documents/1重要备份/project/2026SOTABand/SOTABand/data/downloads/1789970747493",
+    "file_count": 2,
+    "total_size": 1540428,
     "formats": [
       "png"
     ],
-    "tags": [
-      "水稻田",
-      "播种机",
-      "农业",
-      "合成图像",
-      "农田"
-    ],
+    "tags": [],
     "quality_score": null,
-    "created_at": "2026-09-09T06:36:30Z",
+    "created_at": "2026-09-21T06:06:24Z",
+    "owner": "local-bf30593d",
     "visibility": "private",
-    "storage": "local",
-    "owner": "local-bf30593d"
+    "storage": "local"
   },
   {
     "id": "电力数据_1786586722",
@@ -1420,6 +1414,49 @@
     "tags": [],
     "quality_score": null,
     "created_at": "2026-09-11T12:43:26Z",
+    "owner": "local-bf30593d",
+    "visibility": "private",
+    "storage": "local"
+  },
+  {
+    "id": "voc2007",
+    "name": "voc2007",
+    "version": "0.1.0",
+    "type": "generic",
+    "status": "active",
+    "spec_path": "definitions/voc2007.md",
+    "data_path": "/Users/leo/Documents/1重要备份/project/2026SOTABand/SOTABand/data/datasets/voc2007/VOCdevkit/VOC2007",
+    "file_count": 21282,
+    "total_size": 894329208,
+    "formats": [
+      "jpg",
+      "png",
+      "txt",
+      "xml"
+    ],
+    "tags": [],
+    "quality_score": null,
+    "created_at": "2026-09-12T10:11:36Z",
+    "owner": "local-bf30593d",
+    "visibility": "private",
+    "storage": "local"
+  },
+  {
+    "id": "milk_20260921142507",
+    "name": "milk",
+    "version": "0.1.0",
+    "type": "generic",
+    "status": "active",
+    "spec_path": "definitions/milk_20260921142507.md",
+    "data_path": "/Users/leo/Documents/1重要备份/project/2026SOTABand/SOTABand/data/downloads/20260921142507",
+    "file_count": 1,
+    "total_size": 4769,
+    "formats": [
+      "csv"
+    ],
+    "tags": [],
+    "quality_score": null,
+    "created_at": "2026-09-21T06:25:07Z",
     "owner": "local-bf30593d",
     "visibility": "private",
     "storage": "local"

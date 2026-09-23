@@ -77,3 +77,6 @@ logs/aerial-image-quality-batch-assessment_*.md
 # 根目录只保留 README，其余 .md 文档不入仓库（子目录不受影响）
 /*.md
 !README.md
+
+# 根目录临时文件/目录（测试遗留）
+/FFF/

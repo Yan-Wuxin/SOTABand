@@ -526,5 +526,43 @@
     ],
     "associated_tool_id": "milkshake-predictor-trainer",
     "created_at": "2026-09-09T06:42:49Z"
+  },
+  {
+    "id": "model-1789971963",
+    "name": "奶昔预测模型20260921142603_20260921_142603_787",
+    "version": "0.1.0",
+    "type": "model",
+    "status": "registered",
+    "spec_path": "definitions/model-1789971963.md",
+    "framework": "scikit-learn",
+    "model_path": "/Users/leo/Documents/1重要备份/project/2026SOTABand/SOTABand/data/downloads/model_20260921142603.pkl",
+    "input_format": "tabular",
+    "output_format": "scalar",
+    "tags": [
+      "regression",
+      "milkshake",
+      "prediction"
+    ],
+    "associated_tool_id": "milkshake-predictor-trainer",
+    "created_at": "2026-09-21T06:26:03Z"
+  },
+  {
+    "id": "model-1789974771",
+    "name": "奶昔预测模型20260921151251_20260921_151251_258",
+    "version": "0.1.0",
+    "type": "model",
+    "status": "registered",
+    "spec_path": "definitions/model-1789974771.md",
+    "framework": "scikit-learn",
+    "model_path": "/Users/leo/Documents/1重要备份/project/2026SOTABand/SOTABand/data/downloads/model_20260921151251.pkl",
+    "input_format": "tabular",
+    "output_format": "scalar",
+    "tags": [
+      "regression",
+      "milkshake",
+      "prediction"
+    ],
+    "associated_tool_id": "milkshake-predictor-trainer",
+    "created_at": "2026-09-21T07:12:51Z"
   }
 ]
